@@ -64,6 +64,9 @@
         android:id="@+id/button_zero"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+
+        app:layout_constraintBottom_toTopOf="@+id/button_count"
+        app:layout_constraintTop_toBottomOf="@+id/button_toast"
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:background="#948F8F"
@@ -71,7 +74,7 @@
         android:text="@string/reset"
         android:textColor="#FFFFFF"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button_toast"
+
        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

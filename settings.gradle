@@ -1,2 +1,2 @@
-include ':Fudementals1-1', ':Fundementals1-2HomeWork', ':Fundementals1-2HelloToastChallenge'
+include ':Fudementals1-1', ':Fundementals1-2HomeWork', ':Fundementals1-2HelloToastChallenge', ':fundementals1-3homework2', ':fundementals2-1homework'
 rootProject.name='Hello_World'
