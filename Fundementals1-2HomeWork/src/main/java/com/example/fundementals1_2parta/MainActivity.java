@@ -1,5 +1,6 @@
 package com.example.fundementals1_2parta;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
@@ -9,7 +10,11 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.HelloToast.challange.displayMessage;
+
+
 public class MainActivity extends AppCompatActivity {
+    public static final String EXTRA_MESSAGE = "com.example.android.twoactivities.extra.MESSAGE";
     private int mCount = 0;
     private TextView mShowCount;
     private  Button  mButtonZero;
@@ -57,6 +62,17 @@ public class MainActivity extends AppCompatActivity {
             countColor.setBackgroundColor(Color.parseColor("#1D588F"));
 
         }
+
+    }
+
+    public void sendMessage(View view) {
+
+        Intent intent = new Intent(this, displayMessage.class);
+        String message = "Hello" +"\n" + mCount;
+        intent.putExtra(EXTRA_MESSAGE, message);
+
+        startActivity(intent);
+
 
     }
 }
