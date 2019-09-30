@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Fundementals2-1Homework</string>
+    <string name="button_main">Send</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="text_header">Message Received</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
+    <string name="button_nr1">1</string>
+    <string name="button_nr2">2</string>
+    <string name="button_nr3">3</string>
+    <string name="add_item">Add Item</string>
+    <string name="code_challange_2_1">Code Challange 2-1</string>
+    <string name="apple">Apple</string>
+    <string name="banana">Banana</string>
+    <string name="eggs">Eggs</string>
+    <string name="chicken">Chicken</string>
+    <string name="fish">Fish</string>
+    <string name="pasta">Pasta</string>
+    <string name="rice">Rice</string>
+    <string name="milk">Milk</string>
+    <string name="ice_cream">Ice Cream</string>
+    <string name="pizza">Pizza</string>
+    <string name="_2_3_challange">2-3 Challange</string>
+    <string name="my_list">My List</string>
+    <string name="text_counter">0</string>
+    <string name="button_counter">Count</string>
+    <string name="editTexter">This is an edit Text</string>
+    <string name="homework">Homework</string>
+    <string name="homeWork">.Homework</string>
+</resources>
