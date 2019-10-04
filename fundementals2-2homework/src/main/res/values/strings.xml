@@ -29,4 +29,6 @@
     <string name="editTexter">This is an edit Text</string>
     <string name="homework">Homework</string>
     <string name="homeWork">.Homework</string>
+    <string name="pick_a_shop">Pick a Shop</string>
+    <string name="pick_a_shoplocation">Pick a ShopLocation</string>
 </resources>

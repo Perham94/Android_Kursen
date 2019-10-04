@@ -1,2 +1,4 @@
-include ':Fudementals1-1', ':Fundementals1-2HomeWork', ':Fundementals1-2HelloToastChallenge', ':fundementals1-3homework2', ':fundementals2-1homework',':fundementals2-2homework', ':fundementals2-3'
+include ':Fudementals1-1', ':Fundementals1-2HomeWork', ':Fundementals1-2HelloToastChallenge', ':fundementals1-3homework2', ':fundementals2-1homework',':fundementals2-2homework', ':fundementals2-3', ':implicitintentsreceiver', ':droidcafe',':droidcafe4-2'
+
+
 rootProject.name='Hello_World'
