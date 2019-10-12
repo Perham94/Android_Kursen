@@ -25,6 +25,7 @@
     <string name="strawberry">strawberry</string>
     <string name="chocolate">chocolate</string>
     <string name="showtexts">ShowText</string>
+    <string name="title_activity_order">Order Activity</string>
     <string-array name="labels_array">
         <item>Home</item>
         <item>Work</item>

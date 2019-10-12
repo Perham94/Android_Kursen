@@ -9,15 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".OrderActivity"
-
-
+        <activity
+            android:name="com.example.droidcafe.OrderActivity"
+            android:label="Order Activity"
             android:parentActivityName=".MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
-
-            </activity>
+        </activity>
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"

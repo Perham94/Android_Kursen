@@ -24,5 +24,10 @@ This volume starts with the first new Beatle song, “Free as a Bird” (based o
 <b><i>One After 909</i></b> — A song recorded for the <i>Let It Be</i> album was actually worked on way back in the beginning, six years earlier. This take shows how they did it much more slowly, with an R&amp;B feel to it.
 </string>
     <string name="add_comment">Add Comment</string>
+    <string name="context_edit">Edit</string>
+    <string name="context_share">Share</string>
+    <string name="context_delete">Delete</string>
+    <string name="alert_textbox">Hello World! Tap to test the alert:</string>
+    <string name="alert_button">Alert</string>
 
 </resources>

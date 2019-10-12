@@ -77,6 +77,21 @@
                     android:scrollbars="horizontal"
                     android:text="@string/add_comment" />
 
+                <TextView
+                    android:id="@+id/alert_textbox"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/alert_textbox" />
+
+                <Button
+                    android:id="@+id/alert_button"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="onClickShowAlert"
+                    android:text="@string/alert_button" />
+
             </LinearLayout>
 
 

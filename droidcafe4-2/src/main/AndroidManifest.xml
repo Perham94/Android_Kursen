@@ -24,7 +24,8 @@
                 android:value=".MainActivity" />
         </activity>
         <activity
-            android:name=".OrderActivity"
+            android:name="com.example.droidcafe.OrderActivity"
+            android:label="@string/title_activity_order"
             android:parentActivityName=".MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
